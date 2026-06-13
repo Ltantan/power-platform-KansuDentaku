@@ -1,0 +1,12 @@
+# 作業用ファイル（公開しない）
+CLAUDE.md
+_inbox.md
+_scratch/
+
+# 秘密情報
+.env
+credentials.json
+token.json
+
+# macOS
+.DS_Store
